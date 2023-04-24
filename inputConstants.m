@@ -10,8 +10,8 @@ g = 9.81;
 
 motor_nominal_tourque = 3.2;
 motor_maximum_tourque = 10;
-motor_nominal_speed = 1500;
-motor_maximum_speed = 3600;
+motor_nominal_speed = 3000;
+motor_maximum_speed = 7200;
 
 gearbox_ratio = 160;
 
